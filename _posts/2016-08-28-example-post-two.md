@@ -1,17 +1,15 @@
 ---
-title: History of the Alembic
+title:API Development
 categories:
-- History
+- API Development
 feature_text: |
-  The History of the Alembic tool
+  API Development
 ---
 
-Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
+APIs are used in almost all software, websites, mobile apps, or computer games
 
 <!-- more -->
 
-Alembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]
-
-The anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]
-
+Another way that APIs can be used is to show data stored in another platform on your website. Have you ever seen a comment form on a site that looks like this?
+Reference : https://www.karllhughes.com/posts/api-development
 _Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
